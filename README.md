@@ -1,4 +1,4 @@
-# Hospital Appointment Booking System
+# Hospital Appointment Booking System🏥
 
 ## Overview
 This Appointment Booking System enables users to book and cancel appointments with doctors in a hospital setting. It also includes a billing system for managing user bills and processing payments. This repository contains the server and client components necessary for the operation of the system, along with a performance monitoring client.
